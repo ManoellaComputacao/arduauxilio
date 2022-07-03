@@ -1,0 +1,30 @@
+{
+  "name": "arduauxilio",
+  "version": "1.0.0",
+  "description": "Site de auxílio à programação com Arduino e Tinkercad.",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo This is a static template, there is no bundler or bundling involved!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesandbox-app/static-template.git"
+  },
+  "keywords": [
+    "arduino",
+    "tinkercad",
+    "programacao",
+    "auxilio",
+    "ajuda"
+  ],
+  "author": "Ives van Hoorne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codesandbox-app/static-template/issues"
+  },
+  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
